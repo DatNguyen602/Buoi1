@@ -1,0 +1,46 @@
+*{
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h1{
+    color: red;
+    text-align: center;
+}
+
+.img1{
+    width: 36%;
+}
+.h21{
+    background-color: rgb(242, 41, 75);
+    color: white;
+}
+.list{
+    margin-left: 32px;
+}
+.h22{
+    background-color: rgb(184, 219, 244);
+    color: blue;
+}
+.h23,.h23>a{
+    background-color: greenyellow;
+    color: blueviolet;
+    /* display: inline-block; */
+    width: 100%;
+}
+
+table{
+    background-image: url(https://bom.so/pXgqQi);
+    background-position: center;
+    background-size: cover;
+}
+table,td{
+    border-collapse: collapse;
+    border: 1px solid rgb(38, 70, 185);
+    width: 100%;
+    color: #fff;
+}
+td{
+    padding: 8px 24px;
+}
